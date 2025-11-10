@@ -35,4 +35,4 @@ It focuses on practical implementation of JavaScript fundamentals and UI design 
 
 1. Clone or download this repository
 
-Check it out here: 
+Check it out here: https://prachiweb19.github.io/To-Do-App
