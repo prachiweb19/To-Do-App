@@ -31,5 +31,8 @@ This project was created as part of my front-end learning journey.
 It focuses on practical implementation of JavaScript fundamentals and UI design principles.
 
 ---
+## 🧩 How to Use
 
-Check it out here
+1. Clone or download this repository
+
+Check it out here: 
